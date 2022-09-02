@@ -1,0 +1,9 @@
+{
+	"name": "AY-ADF-Preprod",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95e4b689-ed7e-41b9-8f15-625e28fcd3a5",
+		"tenantId": "ce05e4d2-f24d-4953-b0cb-dc696892a120"
+	}
+}
